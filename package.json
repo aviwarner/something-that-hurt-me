@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "something-that-hurt-me",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A record of a curious behavior",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Avi Warner <aviwarner@gmail.com>",
   "dependencies": {
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
@@ -21,9 +21,6 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
